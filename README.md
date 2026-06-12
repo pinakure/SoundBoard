@@ -6,4 +6,4 @@ show inside each category button.
 
 ![Captura de pantalla](./screenshot.png)
 
-Live Demo: https://soundboard.iskarion.ddns.net
+Live Demo: https://soundpanel.iskarion.ddns.net
